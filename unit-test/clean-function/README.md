@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/oax6c4di7mr1njby/branch/master?svg=true)](https://ci.appveyor.com/project/VarsPtz/ajs-homeworks-vars/branch/master)
+
 # Домашнее задание к лекции «Unit-тестирование»
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
